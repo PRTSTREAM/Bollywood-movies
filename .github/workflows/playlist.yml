@@ -1,4 +1,4 @@
-Name: Update IPTV Playlist
+name: Update IPTV Playlist
 
 on:
   schedule:
